@@ -1,0 +1,24 @@
+{
+    "full_name": "Benabid Ouday",
+    "name": "Ouday",
+    "current_role": "AI Engineer",
+    "location": "Nice, France",
+    "email": "ouday.ba@outlook.fr",
+    "youtube": "https://www.youtube.com/watch?v=LxT-SlQKCw4&t=27s",
+    "linkedin": "https://www.linkedin.com/in/ouday-benabid/",
+    "specialties": [
+      "AI Engineer",
+      "Data Scientist",
+      "Data Engineer",
+      "Data Analyst",
+      "AI Speaker"
+    ],
+  
+    "education": [
+      {
+        "degree": "Dual-degree holder : Master’s Degree (M2) in Data Science and AI Engineering and oftware Engineering Diploma",
+        "institution": "University of Nice Sophia Antipolis",
+        "year": "2025"
+      }
+    ]
+  }

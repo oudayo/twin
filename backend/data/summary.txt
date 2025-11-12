@@ -1,0 +1,29 @@
+Below is a text résumé summary of your experience, written based on your CV and including DevOps / MLOps & multi-cloud (AWS, Azure, Terraform) as requested:
+
+Professional Summary
+
+AI & Software Engineer with dual degrees in Data Science & AI Engineering and Software Engineering. Experienced in designing, training, and deploying intelligent systems, generative AI models, and data platforms in production environments. Strong background in MLOps, DevOps, and cloud engineering, with hands-on expertise across AWS, Azure, and containerized deployments using Docker, CI/CD, orchestration, and infrastructure-as-code (Terraform).
+
+Delivered end-to-end machine learning pipelines, LLM-powered systems, and scalable data architectures. Skilled in model fine-tuning, retraining, experiment tracking, production monitoring, and automation. Proven ability to integrate and deploy distributed AI systems, build ETL/ELT workflows, and optimize cloud infrastructure for performance and cost.
+
+Core Skills
+
+AI & ML: LLMs, RAG, Transformers, YOLO, VAEs, CV, NLP, deep learning
+
+MLOps / DevOps: MLflow, Docker, CI/CD (GitLab), monitoring, logging, IaC (Terraform)
+
+Cloud Platforms: AWS (Lambda, S3, SageMaker, API Gateway, Redshift, Glue), Azure (ML Studio, Storage, Functions)
+
+Data Engineering: ETL, SQL, Data Warehousing, Airflow
+
+Programming: Python, FastAPI, PyTorch, TensorFlow, LangChain, scikit-learn
+
+Tools: Power BI, Pandas, NumPy, OpenSearch, Weaviate, n8n
+
+Highlighted Experience
+
+AI Engineer Intern — Malizai | Monaco
+Built and deployed a production-grade RAG-based AI architecture with multi-agent orchestration and LLM-based autonomous reasoning. Fine-tuned LLM models to reduce hallucinations and improve accuracy. Designed and deployed scalable cloud services on AWS, automated pipelines, and implemented end-to-end MLOps processes.
+
+Data Engineer Intern — YES | Tunisia
+Designed a full data environment including Data Warehouse, automated ETL pipelines, and analytical dashboards. Built cloud data workflows and managed AWS storage, security, and pipelines. Automated reporting and delivered interactive BI dashboards.
